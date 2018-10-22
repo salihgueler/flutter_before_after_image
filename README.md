@@ -43,6 +43,7 @@ class _MyAppState extends State<MyApp> {
 ## TODOs
 - Add portrait mode support.
 - Add icon for slider.
+- Tests
 
 ## License
 

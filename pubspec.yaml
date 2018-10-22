@@ -1,0 +1,23 @@
+name: before_after_image_slider
+description: An image slider to use for before after slider views.
+version: 0.0.1
+author: Muhammed Salih Gueler
+homepage:
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://www.dartlang.org/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  plugin:
+    androidPackage: com.example.beforeafterimageslider
+    pluginClass: BeforeAfterImageSliderPlugin
+  assets:
+    - assets/images/slider_icon.png

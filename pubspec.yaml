@@ -19,5 +19,3 @@ flutter:
   plugin:
     androidPackage: com.example.beforeafterimageslider
     pluginClass: BeforeAfterImageSliderPlugin
-  assets:
-    - assets/images/slider_icon.png

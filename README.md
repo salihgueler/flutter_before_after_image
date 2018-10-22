@@ -6,6 +6,19 @@
 
 ## How to use?
 
+You can import it as it's shown below.
+
+```
+dependencies:
+  before_after_image_slider: ^0.0.2
+```
+
+Then update your packages and import it in your project
+
+```
+$ flutter packages get
+```
+
 You can simply use it by adding two images to **beforeImage** and **afterImage** values.
 
 **dividerThickness** and **dividerColor** can be modified too. These two values have default values of **5.0** for dividerThickness and **Colors.black12** for dividerColor.

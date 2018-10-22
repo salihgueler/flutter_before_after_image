@@ -1,8 +1,8 @@
 name: before_after_image_slider
 description: An image slider to use for before after slider views.
 version: 0.0.1
-author: Muhammed Salih Gueler
-homepage:
+author: Muhammed Salih Gueler <muhammedsalihgueler@gmail.com>
+homepage: https://github.com/salihgueler/flutter_before_after_image
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"

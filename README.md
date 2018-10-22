@@ -2,7 +2,7 @@
 
 **BeforeAfterImage** is a Flutter plugin to create a Before-After view with stacked two images and give user experience about before and after view.
 
-TODO: Add gif here.
+![](https://github.com/salihgueler/flutter_before_after_image/blob/master/resource/preview.gif)
 
 ## How to use?
 
